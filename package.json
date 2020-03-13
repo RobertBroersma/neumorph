@@ -1,0 +1,21 @@
+{
+  "name": "neumorph",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "babel-plugin-styled-components": "^1.10.7",
+    "gatsby": "^2.19.41",
+    "gatsby-plugin-prefetch-google-fonts": "^1.4.3",
+    "gatsby-plugin-styled-components": "^3.1.20",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "styled-components": "^5.0.1",
+    "styled-system": "^5.1.5"
+  },
+  "scripts": {
+    "dev": "gatsby develop",
+    "build": "gatsby build",
+    "clean": "gatsby clean"
+  }
+}
