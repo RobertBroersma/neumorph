@@ -105,14 +105,7 @@ const Index = () => {
         />
       </Box>
       <Box pt={5} display="grid" gridGap={5}>
-        <Button>Sign Up</Button>
-        <Button
-          background="linear-gradient(161.78deg, #17B596 12.58%, #28FAC9 89.78%)"
-          border="3px solid #28F8C8"
-          color="background.50"
-        >
-          Sign Up
-        </Button>
+        <Button id="button">Sign Up</Button>
       </Box>
     </Layout>
   )
