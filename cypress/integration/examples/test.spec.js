@@ -3,7 +3,7 @@ context('Window', () => {
     cy.visit('/')
   })
 
-  it('cy.window() - get the global window object', () => {
+  it('Should click my button', () => {
     cy.get('#button').click()
   })
 })

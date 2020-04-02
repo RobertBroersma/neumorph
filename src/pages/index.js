@@ -35,7 +35,8 @@ const Button = props => (
 const Index = () => {
   return (
     <Layout>
-      <Box display="grid" gridTemplateColumns="1fr 1fr 1fr" gridGap={5}>
+      <h2>Release 1.1</h2>
+      <Box pt={4} display="grid" gridTemplateColumns="1fr 1fr 1fr" gridGap={5}>
         <Box
           display="flex"
           width="100px"
